@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/syys5855/testupload#readme",
   "dependencies": {
+    "connect-multiparty": "^2.1.0",
     "express": "^4.16.2",
+    "lodash": "^4.17.4",
     "sqlite3": "^3.1.13"
   }
 }
